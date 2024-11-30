@@ -6,4 +6,4 @@
 - CSS
 - JavaScript
 
-### Ссылка для просмотра сайта: [QR-code generator](https:// "Сайт на Netlify")
+### Ссылка для просмотра сайта: [QR-code generator](https://qr-code-generator-aristov.netlify.app "Сайт на Netlify")
